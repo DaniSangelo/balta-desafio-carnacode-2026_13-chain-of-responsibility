@@ -1,4 +1,4 @@
-![CR-3](https://github.com/user-attachments/assets/485b7ff1-c098-40bf-93b4-00058c8729a9)
+![CO-1](https://github.com/user-attachments/assets/7b600675-587d-4e1a-9786-2ea50e35d8a7)
 
 ## 🥁 CarnaCode 2026 - Desafio 13 - Chain of Responsibility
 
